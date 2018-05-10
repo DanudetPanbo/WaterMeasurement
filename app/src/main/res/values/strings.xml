@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WaterMeasurement</string>
+    <string name="Prediction">Prediction</string>
+    <string name="knowledge">Knowledge</string>
+    <string name="result">Result</string>
+    <string name="setting">Setting</string>
+    <string name="topics">Topics</string>
+    <string name="klHelp">คู่มือการใช้งาน</string>
+    <string name="klPlaning">การวางแผนการจัดการ</string>
+    <string name="klWaterSystem">ระบบชลประทาน</string>
+</resources>
